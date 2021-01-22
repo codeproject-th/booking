@@ -1,0 +1,18 @@
+body{
+	background-color: #000000;
+}
+
+.box{
+	margin-top: 100px;
+	background-color: #ffffff;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.admin-login{
+	margin-top: 20px;
+	margin-bottom: 30px;
+	font-size: 26px;
+	font-weight: bold;
+	color: #adadad;
+}

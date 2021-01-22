@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Prompt');
+body{
+	font-family: 'Prompt', sans-serif;
+}
+
+.header-menu ul{
+	margin: 0px;
+	padding: 0px;
+	text-align: right;
+	margin-top: 90px;
+}
+
+.header-menu li{
+	display: inline;
+	list-style: none;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.footer{
+	background-color: #293339;
+	color: #FFFFFF;
+	font-size: 18px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}

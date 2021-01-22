@@ -1,0 +1,35 @@
+body{
+	background-color: #000000;
+}
+
+#content-left{
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-left-color: #ebebeb;
+	padding-top: 10px;
+}
+
+.menu{
+	
+}
+
+.menu ul{
+	list-style: none;
+	margin-top: 20px;
+	padding: 0px;
+}
+
+.menu li{
+	padding: 7px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #efefef;
+}
+
+.footer{
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #efefef;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}

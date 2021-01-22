@@ -1,0 +1,11 @@
+<?php
+Template::render('./../template-admin/header.php');
+db::delete('room',array('room_id'=>$_GET['id']));//ลบห้อง
+?>
+<script>
+	alert('ลบข้อมูลเรียบร้อย');
+	window.history.back();
+</script>
+<?
+Template::render('./../template-admin/footer.php');
+?>

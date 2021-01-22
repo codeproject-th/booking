@@ -1,0 +1,13 @@
+
+Database Created
+
+Details
+
+Your database has been setup. Use the following values:
+
+Database:	webappth_b17
+Host:	localhost
+Username:	webappth_b17
+Password:	vd7grRDa
+
+Click HERE to go back
